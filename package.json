@@ -1,0 +1,23 @@
+{
+  "name": "fastify-basics",
+  "version": "1.0.0",
+  "description": "learning some fastify basics",
+  "main": "very-simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node very-simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerablackham/fastify-basics.git"
+  },
+  "author": "Tyler Blackham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerablackham/fastify-basics/issues"
+  },
+  "homepage": "https://github.com/tylerablackham/fastify-basics#readme",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  }
+}
